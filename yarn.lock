@@ -6212,10 +6212,10 @@ decimal.js@^10.2.1:
   resolved "https://dzo.sw.sbc.space/nexus-ci/repository/npm-public/decimal.js/-/decimal.js-10.4.3.tgz#1044092884d245d1b7f65725fa4ad4c6f781cc23"
   integrity sha1-EEQJKITSRdG39lcl+krUxveBzCM=
 
-decode-uri-component@^0.2.0:
-  version "0.2.1"
-  resolved "https://dzo.sw.sbc.space/nexus-ci/repository/npm-public/decode-uri-component/-/decode-uri-component-0.2.1.tgz#e9d7afd716fc1a7ec6ae7cc0aa3e540a1eac2e9d"
-  integrity sha1-6dev1xb8Gn7GrnzAqj5UCh6sLp0=
+decode-uri-component@0.2.2, decode-uri-component@^0.2.0:
+  version "0.2.2"
+  resolved "https://dzo.sw.sbc.space/nexus-ci/repository/npm-public/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha1-5p2+JdN5QRcd1UDgJMREzVGI4ek=
 
 deep-extend@~0.6.0:
   version "0.6.0"
