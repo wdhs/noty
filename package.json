@@ -73,7 +73,7 @@
     "moment-timezone": "0.5.34",
     "nanoid": "3.3.8",
     "rc-motion": "2.9.5",
-    "rc-select": "14.1.18",
+    "rc-select": "14.16.8",
     "rc-trigger": "5.3.4",
     "react": "18.3.1",
     "react-codemirror2": "7.2.1",
