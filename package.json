@@ -70,7 +70,7 @@
     "codemirror": "5.65.2",
     "date-fns-tz": "3.2.0",
     "immutability-helper": "3.1.1",
-    "moment-timezone": "0.5.34",
+    "moment-timezone": "0.6.0",
     "nanoid": "3.3.8",
     "rc-motion": "2.9.5",
     "rc-select": "14.1.18",
