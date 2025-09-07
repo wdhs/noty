@@ -64,7 +64,7 @@
     "@pvm-ui/pvm-ui-components": "0.9.8",
     "@reduxjs/toolkit": "^1.8.2",
     "@types/react-router-dom": "5.1.8",
-    "@types/styled-components": "5.1.12",
+    "@types/styled-components": "5.1.34",
     "antd": "4.24.14",
     "axios": "1.8.3",
     "codemirror": "5.65.2",
